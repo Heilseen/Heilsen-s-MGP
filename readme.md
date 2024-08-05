@@ -13,7 +13,7 @@ A private server multiplayer game based on Lovatto's MFPS 2.0
 
 
 [![Latest stable release](https://img.shields.io/badge/latest%20release-stable-blue
-)](https://opensource.org/licenses/)
+)](https://github.com/Heilseen/Heilsen-s-MGP/releases/tag/Releases)
 
 
 
